@@ -41,7 +41,7 @@ SCUI的宗旨是 让一切复杂的东西傻瓜化。
 git clone https://gitee.com/lolicode/scui.git
 
 # 进入项目目录
-cd scui
+cd vue3
 
 # 安装依赖
 npm i
